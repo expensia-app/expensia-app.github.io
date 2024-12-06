@@ -1,0 +1,81 @@
+/* Global Styles */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    color: #333;
+    line-height: 1.6;
+    background-color: #f8f9fa;
+}
+
+/* Hero Section */
+.hero {
+    background-color: #007bff;
+    color: #fff;
+    text-align: center;
+    padding: 2rem;
+}
+
+.hero h1 {
+    margin: 0;
+    font-size: 2.5rem;
+}
+
+.hero p {
+    font-size: 1.2rem;
+    margin-top: 0.5rem;
+}
+
+/* Container */
+.container {
+    max-width: 900px;
+    margin: 2rem auto;
+    padding: 1rem;
+    background: #fff;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+/* Policy Section */
+.policy-section {
+    margin-bottom: 2rem;
+}
+
+.policy-section h2 {
+    color: #007bff;
+    font-size: 1.8rem;
+    margin-bottom: 0.5rem;
+}
+
+.policy-section p,
+.policy-section ul {
+    margin: 0.5rem 0;
+}
+
+.policy-section ul {
+    padding-left: 1.5rem;
+}
+
+.policy-section ul li {
+    margin-bottom: 0.5rem;
+}
+
+/* Links */
+a {
+    color: #007bff;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/* Footer */
+.footer {
+    text-align: center;
+    padding: 1rem;
+    background-color: #f1f1f1;
+    margin-top: 2rem;
+    font-size: 0.9rem;
+    color: #666;
+}
